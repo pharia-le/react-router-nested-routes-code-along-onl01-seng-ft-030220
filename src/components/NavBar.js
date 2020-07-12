@@ -20,4 +20,6 @@ const NavBar = () => {
   );
 }
 
+const number = 1 + 2  
+
 export default NavBar;
